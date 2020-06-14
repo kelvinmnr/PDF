@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+generating pdf viewer for rails data
 
-Things you may want to cover:
+technologies:
 
-* Ruby version
+* Rails 6
 
-* System dependencies
+* Reactjs
 
-* Configuration
+* Webpacker
 
-* Database creation
+* Postgres
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
