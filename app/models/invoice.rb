@@ -23,6 +23,7 @@ class Invoice < ApplicationRecord
         subtotal - discount_calculated + vat_calculated
     end
 
+
     def status_class
         STATUS_CLASS[self.status.to_sym]
     end
