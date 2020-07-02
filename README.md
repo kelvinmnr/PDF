@@ -1,8 +1,8 @@
-# README
+# PDF GENERATOR
 
-generating pdf viewer for rails data
+A simple pdf generator 
 
-technologies:
+App powered by:
 
 * Rails 6
 
