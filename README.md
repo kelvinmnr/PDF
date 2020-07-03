@@ -1,8 +1,7 @@
 # PDF GENERATOR
 
 A simple pdf generator 
-
-App powered by:
+acknowledge:
 
 * Rails 6
 
